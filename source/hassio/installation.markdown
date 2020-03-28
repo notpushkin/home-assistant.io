@@ -205,5 +205,5 @@ If you can not find your machine type in the list, you should pick the `qemu` re
 [local]: http://homeassistant.local:8123
 [samba]: /addons/samba/
 [ssh]: /addons/ssh/
-[pi-power]: https://www.raspberrypi.org/help/faqs/#powerReqs
+[pi-power]: https://www.raspberrypi.org/documentation/faqs/#pi-power
 [configure]: /getting-started/configuration/
